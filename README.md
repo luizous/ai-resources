@@ -17,10 +17,10 @@ Artificial Intelligence resources that I've been using and study.
 * [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning);
 
 ## 📜 Articles <a name="articles"></a>
-* [When Bias Is Coded Into Our Technology, JENNIFER LEE](https://www.npr.org/sections/codeswitch/2020/02/08/770174171/when-bias-is-coded-into-our-technology);
+* [When Bias Is Coded Into Our Technology](https://www.npr.org/sections/codeswitch/2020/02/08/770174171/when-bias-is-coded-into-our-technology), Jennifer Lee;
 
-## 📜 Books <a name="books"></a>
-* [AI Ethics, Mark Coeckelbergh](https://www.amazon.com/Ethics-MIT-Press-Essential-Knowledge/dp/0262538199);
+## 📚 Books <a name="books"></a>
+* [AI Ethics](https://www.amazon.com/Ethics-MIT-Press-Essential-Knowledge/dp/0262538199), Mark Coeckelbergh;
 
 ## 📎 Others <a name="others"></a>
 * [Cheat Sheet](https://drive.google.com/file/d/1f72fqmi3nFmGBOfVTP-wT5PAgads7Iqe/view);
